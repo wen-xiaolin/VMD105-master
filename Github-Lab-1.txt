@@ -1,0 +1,140 @@
+Github Lab 1: Collaboration
+
+Instructions: In this lab we will play a game of literary ‘exquisite corpse’. The idea is we will write a story where each student writes one paragraph of the story based on the last paragraph. 
+
+For this assignment please edit this file by opening it into a text program like TextEdit / Microsoft Word. Please keep the story PG. No use of cursing, racism, sexist, homophobia, intense graphic violence imagery, overt sexual speech will be tolerated. When you start your paragraph please write your name at the top.
+
+When you are done with the paragraph please separate your section by using the a line of underscores. You can do this by holding shift + hypen (-)
+__________________________________
+
+Jill was walking down the street when suddenly she heard a strange noise........
+
+David Hurwich
+
+----------------------------
+
+
+He stopped and looked around......
+
+Minkyung Chung
+_______________________________
+
+*BOOM! A flash of light beams out of an alley a few feet ahead.
+
+Anna Hu
+
+-----------------------------------------
+As Jill comes closer the alley, she found a dinosaur in the box, and its name was JACK ^-^.
+
+Jiehua Haung
+
+Jack had beady eyes and long blonde hair. 
+Kelly Beiermann
+
+__________________________________
+
+Jill took Jack out of the box.
+
+Aiden Boone
+
+______________________________
+
+Jack jumps out of the box, takes a pause, and begins to rap. 
+
+Titan Vicencio
+
+______________________________
+
+Susy takes her headphones off and listens to jack rapping while she taps her feet.
+
+Marina Quadri
+
+The sound of Susy's feet tapping attracted a large crowd 
+
+Tony Waikong Wong 
+_________________________________
+
+As the crowd drew closer, Jack grew frightened of the rampant footsteps. He turns away and ran at full speed. 
+
+Jackkrit Wannaviroj
+__________________________________
+
+As Jack ran, the ground rumbled, creating a large earthquake.
+
+Sara Lau
+__________________________________
+
+Suddenly a large fissure opened, and a giant cat pounced at Jack. 
+
+Matt Walker
+------------------------------------
+
+This cat belonged to Jill. Little did she know that her pet got out of the house. 
+
+Kyle Millhollin
+___________________________________
+
+A large amount of water was spit in the mouth of Jack, and the water washed away Jill's cat.
+
+Zhenming Zhang
+____________________________________
+
+Jack coughed out the water and out came a magical fish.
+
+Mitchell Marcaida
+______________________________________
+
+The magical fish offered Jack three wishes.
+
+Robert Thumas
+____________________________________________
+
+
+For Jack's first wish, he wished he had the most amazing voice in the world.
+
+Xiao Lin Wen
+____________________________________________
+
+
+The second? The most AMAZING jacket ever made.
+
+Mat Maraya
+____________________________________________
+
+
+And for his final wish, Jack asked to have an endless supply of French fries. The fish granted these three wishes and quickly disappeared. Jack was then left with a lovely black bubble jacket. He tested his voice by singing out, "Give me my fries." His voice was soft and elegant, and a big plate of fries appeared in his hands.
+
+Karen Li
+____________________________________________
+
+A large crowd of people gathered around Jack to hear his beautiful voice.
+
+Keanna Lam
+____________________________________________
+
+As the crowd gathered, Jack began to weep. In all his life all he had ever wanted was acceptance. 
+
+Zachary Keplinger
+
+<<<<<<< HEAD
+_____________________________________________
+
+
+That moment would change his life forever. 
+
+
+Vera Kushnir 
+=======
+____________________________________________
+
+Jack is happy as a clam.
+
+Melody Rosado
+>>>>>>> origin/master
+____________________________________________
+
+Valerie Carlese
+
+Acceptance doesn't come easy but Jack knew in time it would all work out. Jack and Jill traveled to Australia for their first time. This was the adventure vacation they were dreaming of for years. They were adrenaline junkies with a minimalist lifestyle. Three months past, I guess they decided to extend their travels. 
+
+____________________________________________
